@@ -18,7 +18,7 @@ fifth:-
 set up database on mongoose atlas
 
 sixth:-
-set up prettierrc from npm i prettier
+set up prettierrc from (npm i -D prettier)
 set up prettierignore file too
 
 seven:-
