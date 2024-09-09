@@ -1,0 +1,25 @@
+first :-
+install (npm init)
+
+git keep and ignore files
+
+Second:-
+set dotenv folder (npm install dotenv)
+set env variable
+
+-r dotenv/config --experimental-json-modules used to import type method
+
+Third src:- app constant index db
+
+fourt :- 
+install express and mongoose
+
+fifth:-
+set up database on mongoose atlas
+
+sixth:-
+set up prettierrc from npm i prettier
+set up prettierignore file too
+
+seven:-
+install nodemon too
